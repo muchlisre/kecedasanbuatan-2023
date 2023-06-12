@@ -1,4 +1,7 @@
 <?php 
+
+
+
 //himpunan dari fuzzy
 $permintaan = ['naik','turun'];
 
